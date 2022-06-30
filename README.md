@@ -3,7 +3,7 @@ In this activity, we will take a dataset on San Francisco Airport's utility cons
 
 ## Instructions
 
-* Read in the CSV file provided, and print it to the screen.
+* Read the CSV file provided, and print it to the screen.
 
 * Print out a list of all the values within the "Utility" column.
 

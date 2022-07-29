@@ -3,7 +3,7 @@ In this activity, we will take a dataset on San Francisco Airport's utility cons
 
 ## Problems:
 
-*List of all the values within the "Utility" column.
+* List of all the values within the "Utility" column.
 
 ![image](https://user-images.githubusercontent.com/100891182/181823532-c815db11-80e7-47c8-9cbd-3e7a9ceea80b.png)
 

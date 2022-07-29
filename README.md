@@ -3,12 +3,12 @@ In this activity, we will take a dataset on San Francisco Airport's utility cons
 
 ## Problems:
 
-* Print out a list of all the values within the "Utility" column.
+*List of all the values within the "Utility" column.
 
 ![image](https://user-images.githubusercontent.com/100891182/181823532-c815db11-80e7-47c8-9cbd-3e7a9ceea80b.png)
 
 
-* Select a value from this list, and create a new DataFrame that only includes that utility. Note that some utilities have more than one option for "Owner," and we may want to limit this new DataFrame to a single "Owner."
+* Create a new DataFrame that only includes that utility. 
 
 ![image](https://user-images.githubusercontent.com/100891182/181823652-31765405-5353-4941-b47f-7fd8c1089d88.png)
 

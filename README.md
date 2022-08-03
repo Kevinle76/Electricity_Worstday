@@ -1,7 +1,8 @@
 # Electricity_Worstday
-In this activity, we will take a dataset on San Francisco Airport's utility consumption and determine which day in the dataset had the worst consumption for each utility.
 
-## Problems:
+Taking a dataset on San Francisco Airport's utility consumption and determining which day in the dataset had the worst consumption for each utility.
+
+## Objectives:
 
 * List of all the values within the "Utility" column.
 
